@@ -18,3 +18,4 @@ A web application built using Next.js that allows students to calculate their GP
 </a>
 <br></br>
 Thanks for contributing!
+
